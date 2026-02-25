@@ -23,7 +23,10 @@ function Hero() {
      <section className="text-gray-600 body-font mt-5 pt-5  home pb-5 " >
   <div className="container home-container  flex   md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 px-3 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center ">
-      <h1 className=" sm:text-4xl text-3xl mb-4 font-bold text-gray-900 ">Memories do talk...</h1>
+      <h1 className=" sm:text-4xl text-3xl mb-4 font-bold text-gray-900 ">Portrait Painting to Tell Your Stories...</h1>
+      <h3 className=" sm:text-4xl text-3xl mb-4 font-bold text-gray-900 ">Upload a Photo to transform into Masterpieces</h3>
+      <h3 className=" sm:text-4xl text-3xl mb-4 font-bold text-gray-900 ">JUST IN 15 DAYS !!</h3>
+      <h2 className=" sm:text-4xl text-3xl mb-4 font-bold text-gray-900 ">Memories do talk...</h2>
       <p className="mb-8  sm:text-1xl text-1xl leading-relaxed" >Beyond just taking pictures, let our expert artists turn them into real paintings.
  </p>
      <div className=' flex   md:flex-row flex-col items-center' >
