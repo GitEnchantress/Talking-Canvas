@@ -30,7 +30,7 @@ function Footer() {
                         <li>India</li>
                     </ul> */}
                     <h3 className='fs-4 px-4'>About Us</h3>
-                <p className='ps-4 text-xs'>We are world's No 1 choice for custom Portraits. We turn your images and photo into 100% hand-painted Portraits and deliver woldwide</p>
+                <p className='ps-4 text-xs'>We are thriving to be the best choice for custom Portraits. We turn your images and photo into 100% hand-painted Portraits and deliver woldwide</p>
                     </div>
                  <div className='col-md-3 col-6 px-5 py-4'>
                     <h3 className='fs-4'>quick links</h3>
@@ -50,9 +50,9 @@ function Footer() {
                     </div>
                     <div className='col-md-3 col-6  py-4'>
                     <h3 className='fs-4'>contact info</h3>
-                <Link to="#"> <i class="fas fa-phone"></i> +123-456-7890 </Link> <br />
-                <Link to="#"> <i class="fas fa-phone"></i> +91-6206517870 </Link> <br />
-                <Link to="#"> <i class="fas fa-envelope"></i> dorkindustries@gmail.com</Link>
+                <Link to="#"> <i class="fas fa-phone"></i> +91 9873848236 </Link> <br />
+                <Link to="#"> <i class="fas fa-phone"></i> +91 9560500469 </Link> <br />
+                <Link to="#" className='font-mono'> <i class="fas fa-envelope"></i> talkingcanvas@gmail.com</Link>
                 <img src={map} class="map pt-3" alt="" />
                     </div>
                 </div>

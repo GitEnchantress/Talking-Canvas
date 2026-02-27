@@ -26,7 +26,7 @@ function Gift() {
                <div class="col-md-7 pb-5 px-5" >
                 <h1 style={{fontSize: "33px" }} className="font-bold">A gift for your loved one's</h1><br />
                 {state.map((item) => (
-                        <p key={item._id} style={{fontSize:"12px"}} class="mt-2">{item.description}</p>
+                        <p key={item._id} style={{fontSize:"12px"}} class="mt-2 mb-9" >{item.description}</p>
                 ))}
                 
                 <Link to="/product-category" class=" btn btn-1 btn-danger">Get Started</Link>
