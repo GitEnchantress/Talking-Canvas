@@ -45,7 +45,7 @@ function Footer() {
                 <Link to="/product/oil-painting"> <i class="fas fa-arrow-right"></i> Oil Painting </Link> <br />
                 <Link to="/product/watercolor"> <i class="fas fa-arrow-right"></i> Water Color </Link> <br />
                 <Link to="/product/charcoal"> <i class="fas fa-arrow-right"></i> Charcoal Painting </Link> <br />
-                <Link to="/product/pensil-sketch-painting"> <i class="fas fa-arrow-right"></i> Pensil Sketch </Link> <br />
+                <Link to="/product/pensil-sketch-painting"> <i class="fas fa-arrow-right"></i> Pencil Sketch </Link> <br />
                 <Link to="/pricing"> <i class="fas fa-arrow-right"></i> Pricing </Link>
                     </div>
                     <div className='col-md-3 col-6  py-4'>

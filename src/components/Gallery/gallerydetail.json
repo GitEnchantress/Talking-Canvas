@@ -6,9 +6,9 @@
         "alt1": "",
         "card2" : "./image/gallery-page/oil-image-2.jpg",
         "alt2": "",
-        "description": "100% Handmade Oil Portrait painted on a Canvas.",
-        "recommended": "Compilation Portraits, Christmas Paintings, Royal Portraits, Pet Portraits.",
-        "finishing": "Rolled, Framed, Gallery Wrapped.",
+        "description": "100% Handmade Oil/Acrylic Painting on a canvas by expert artist.",
+        "recommended": "Portrait for Memories, Old people portraits, Festival Gifts, Royal Portraits, Kids Portraits, Family Portraits.",
+        "finishing": "Rolled, Framed.",
         "link": "/gallery/oil-painting"
     
     },
@@ -19,8 +19,8 @@
         "alt1": "",
         "card2" : "./image/gallery-page/charcoal-image-2.jpg",
         "alt2": "",
-        "description": "100% Handmade Charcoal Drawing sketched on Premium Paper.",
-        "recommended": "Memorial Portraits, Pet Portraits, Black and White Portraits.",
+        "description": "100% Handmade Pencil/Charcoal sketching on premium paper by expert artist.",
+        "recommended": "Portrait for Memories, Old people portraits, Festival Gifts, Royal Portraits, Kids Portraits, Family Portraits, Event/ Party portraits.",
         "finishing": "Rolled.",
         "link": "/gallery/charcoal-painting"
     
@@ -32,28 +32,28 @@
         "alt1": "",
         "card2" : "./image/gallery-page/watercolor-image-2.jpg",
         "alt2": "",
-        "description": "100% Handmade Watercolor Painting painted on Premium & Highly-Absorbent Paper.",
-        "recommended": "Landscape Paintings, Scenery Paintings, Blur Photo to Portraits.",
+        "description": "100% Handmade Watercolor Painting painted on premium thick paper by expert artist.",
+        "recommended": "Scenery Portraits, Festival Gifts, Event/ Party portraits.",
         "finishing": " Rolled, Framed.",
         "link": "/gallery/watercolor-painting"
     
     },
     {
         "id": 4,
-        "title" : "Colored Pensil Drawing From Photo ",
+        "title" : "Colored Pencil Drawing From Photo ",
         "card1" : "./image/gallery-page/colored-pencil-image-1.jpg",
         "alt1": "",
         "card2" : "./image/gallery-page/colored-pencil-image-2.jpg",
         "alt2": "",
         "description": "100% Hand-drawn Colored Pencil Drawing sketched on Premium Paper with Industry-leading pencils.",
-        "recommended": " Child Portraits, Compilation Portraits, Horse Portraits.",
-        "finishing": " Rolled, Framed.",
+        "recommended": "Portrait for Memories, Bad photo to Portraits, Festival Gifts, Royal Portraits, Kids Portraits, Family Portraits, Event/ Party portraits.",
+        "finishing": " Rolled/Framed.",
         "link": "/gallery/colored-pencil-painting"
     
     },
     {
         "id": 5,
-        "title" : "Pensil Sketch From Photo ",
+        "title" : "Pencil Sketch From Photo ",
         "card1" : "./image/gallery-page/pencil-image-1.jpg",
         "alt1": "",
         "card2" : "./image/gallery-page/pencil-image-2.jpg",

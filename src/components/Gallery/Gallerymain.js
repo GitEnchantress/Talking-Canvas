@@ -11,10 +11,10 @@ function Gallerymain() {
         <div>
             <div className="gallery--page--heading mt-5 pt-5">
         <center>
-            <h1 className=' my-3'>Our Gallery</h1>
-            <p>100% Money Back Guarantee + Free Shipping Worldwide!</p>
+            <h1 className=' my-3 font-bold text-5xl text-blue-800'>  GALLERY  </h1>
+            <p>100% MONEY BACK GUARANTEE - SHIPPING CHARGE EXTRA </p>
          
-            <p>Pay Only 30% In Advance. The Rest Only After Approving Your Painting!</p>
+            <p>Pay 40% IN ADVANCE. THE REST AFTER APPROVAL(T&c apply).</p>
         </center>
     </div> 
     {data.map(data => {
@@ -49,9 +49,9 @@ function Gallerymain() {
    <div className="gallery--page--heading mt-5 pb-5">
         <center>
            <span class="button button-pulse">Order Now</span>
-            <p>100% Money Back Guarantee + Free Shipping Worldwide!</p>
+            <p>100% MONEY BACK GUARANTEE - SHIPPING CHARGE EXTRA</p>
          
-            <p>Pay Only 30% In Advance. The Rest Only After Approving Your Painting!</p>
+            <p>Pay 40% IN ADVANCE. THE REST AFTER APPROVAL(T&c apply).</p>
         </center>
     </div> 
 
