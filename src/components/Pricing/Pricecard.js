@@ -48,10 +48,10 @@ function Heading() {
             <div id="heading-price" className='price-heading-container pt-2 mt-5'> 
             <div className='search-price pt-5'> <Searchbar /></div>
            
-         <h2>Best And Affordable Prices of Custom Paintings From Photo (Guaranteed)</h2>
-         <h4> 100% Money Back Guarantee + Free Shipping World Wide!</h4>
+         <h2>Best And Affordable prices of custom paintings from Photo</h2>
+         <h4> Free Shipping World Wide</h4>
          <p>
-           Pay Only 30% In Advance. The Rest Only After Approving Your Painting!
+            Pay 50% in advance and the rest after approving your painting.
          </p>
                 </div>
 {data.map(data =>{
@@ -74,6 +74,7 @@ function Heading() {
                     {data.price} <br/>
                     {data.paragraph3}</p>
                     <span className="bold">{data.span2}</span>{data.paragraph4} <br/>
+                    {data.paragraph5}<br/>
                     <div className="row-pricing">
                         <div className="column-pricing">
                             <Link to={data.linkUrl} className="pricing-button">{data.button}</Link>
