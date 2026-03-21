@@ -61,7 +61,7 @@ function Heading() {
                 <div id='image-price'>
                 <div className="column-1-pricing">
                   
-                  <img src={data.imageUrl} alt={data.alt} className="imgSize" />
+                  <img src={data.imageUrl} alt={data.alt} className="imgSize mt-4" />
               </div>
                 </div>
                 <div id="price-detail">

@@ -12,7 +12,7 @@
         "span2": "Recommended for: ",
         "paragraph4":"Portrait for Memories, Old people portraits, Festival Gifts, Royal Portraits, Kids Portraits, and Family Portraits.",
         "button" : "Oil Painting",
-        "imageUrl" : "./image/oil.png",
+        "imageUrl" : "./image/OIL PAINTING PRICE.jpg",
         "alt" : "",
         "linkUrl": "/pricing/oil-pricing"
     },
@@ -27,7 +27,7 @@
         "span2": "Recommended for: ",
         "paragraph4":"Portrait for Memories, Old people portraits, Festival Gifts, Royal Portraits, Kids Portraits, Family Portraits and Event/Party Portraits.",
         "button" : "Charcoal Drawing",
-        "imageUrl" : "./image/pensil.png",
+        "imageUrl" : "./image/CHARCOAL SKETCHING.jpg",
         "alt" : "",
         "linkUrl": "/pricing/charcoal-pricing"
     },
@@ -43,7 +43,7 @@
         "paragraph4":"Scenery Portraits, Festival Gifts, Event/Party portraits",
         "paragraph5":"Final delivery options:  Rolled, Framed.",
         "button" : "Watercolor Painting",
-        "imageUrl" : "./image/water.png",
+        "imageUrl" : "./image/WATERCOLOR PRICING.jpg",
         "alt" : "",
         "linkUrl": "/pricing/watercolor-pricing"
     },
@@ -58,7 +58,7 @@
         "span2": "Recommended for: ",
         "paragraph4":"Child Portraits, Bad/Old Photo to Painting, Merged Paintings, and Pet Portraits.",
         "button" : "Colored Pencil Drawing",
-        "imageUrl" : "./image/pensil.png",
+        "imageUrl" : "./image/COLOR PENCIL SKETCHING.jpg",
         "alt" : "",
         "linkUrl": "pricing/coloredpencil-pricing"
     },
